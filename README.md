@@ -1,8 +1,8 @@
-# React + Vite
+# The Wild Oasis
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Beautifully designed inn management site. 
 
-Currently, two official plugins are available:
+This was built as part of Udemy "The Ultimate React Course 2023: React, Redux & More" course.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## See this site live on Netifly!!
+https://the-wild-oasis-cp.netlify.app/
